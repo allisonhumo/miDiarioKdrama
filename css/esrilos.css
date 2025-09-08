@@ -51,3 +51,8 @@ footer{
     padding: 10px 12px;
     color: #202020;
 }
+
+.enlace{
+  text-decoration: none;
+  color: inherit;
+}
